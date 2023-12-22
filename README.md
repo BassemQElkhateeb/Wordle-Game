@@ -1,1 +1,1 @@
-This wordle Game was designed and built over a span of 3 months by myself, Youssef Ahmed (yta3@cornell.edu), Nedim Abdelaziz (na377), and Bassem Qassem (baq7@cornell.edu). It was imported from our repo on Cornell Github.
+This wordle Game was designed and built over a span of 3 months by Mohammad Labadi (maa366@cornell.edu), Youssef Ahmed (yta3@cornell.edu), Nedim Abdelaziz (na377), and Bassem Qassem (baq7@cornell.edu). It was imported from our repo on Cornell Github.
